@@ -1,4 +1,4 @@
-# Welcome message
+# Welcome message for user
 print("Welcome to the Band Name Generator Programme ")
 
 # Taking input from the user to enter city name
